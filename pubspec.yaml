@@ -7,6 +7,9 @@ environment:
   sdk: ^3.11.0
   flutter: ">=1.17.0"
 
+executables:
+  cleanly:
+
 dependencies:
   flutter:
     sdk: flutter
